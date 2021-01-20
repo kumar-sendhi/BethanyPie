@@ -18,3 +18,14 @@ D:\2021\aspnet\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\staticweb
 D:\2021\aspnet\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.dll
 D:\2021\aspnet\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.pdb
 D:\2021\aspnet\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.genruntimeconfig.cache
+D:\2021\aspnet\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\BethanysPieShop.Views.dll
+D:\2021\aspnet\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\BethanysPieShop.Views.pdb
+D:\2021\aspnet\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorAssemblyInfo.cache
+D:\2021\aspnet\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorAssemblyInfo.cs
+D:\2021\aspnet\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.TagHelpers.input.cache
+D:\2021\aspnet\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.TagHelpers.output.cache
+D:\2021\aspnet\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorCoreGenerate.cache
+D:\2021\aspnet\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Pie\List.cshtml.g.cs
+D:\2021\aspnet\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorTargetAssemblyInfo.cs
+D:\2021\aspnet\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.Views.pdb
+D:\2021\aspnet\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.csproj.CopyComplete
