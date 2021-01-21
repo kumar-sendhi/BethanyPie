@@ -29,3 +29,6 @@ D:\2021\aspnet\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Vie
 D:\2021\aspnet\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorTargetAssemblyInfo.cs
 D:\2021\aspnet\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.Views.pdb
 D:\2021\aspnet\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.csproj.CopyComplete
+D:\2021\aspnet\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\2021\aspnet\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\2021\aspnet\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
